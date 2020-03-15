@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 # dummy text
 
 starter web project
+
+This is git project.
